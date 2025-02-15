@@ -28,6 +28,7 @@ A blue line chart displaying humidity changes over time (%).
 
 OUTPUT;
        [Image](https://github.com/user-attachments/assets/69f44ba3-e372-4c3a-8a84-49fcf5049ad8)
+       ![Image](https://github.com/user-attachments/assets/cc770daa-9df8-4f5a-b373-07d22f5cfdb9)
        
 
 
