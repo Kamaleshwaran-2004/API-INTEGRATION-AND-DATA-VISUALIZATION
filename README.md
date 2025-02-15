@@ -26,4 +26,8 @@ A red line chart showing temperature variations over time (°C).
 Humidity Forecast:
 A blue line chart displaying humidity changes over time (%).
 
+OUTPUT;
+       [Image](https://github.com/user-attachments/assets/69f44ba3-e372-4c3a-8a84-49fcf5049ad8)
+       
+
 
