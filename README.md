@@ -25,3 +25,6 @@ Temperature Forecast:
 A red line chart showing temperature variations over time (°C).
 Humidity Forecast:
 A blue line chart displaying humidity changes over time (%).
+
+OUTPUT  
+       [humidity and temperature forecast. jpg.pdf](https://github.com/user-attachments/files/18811588/humidity.and.temperature.forecast.jpg.pdf)
